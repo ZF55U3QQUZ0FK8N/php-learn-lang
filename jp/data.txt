@@ -1,0 +1,12 @@
+#Numbers
+0:rei/zero:零
+1:ichi:一
+2:ni:二
+3:san:三
+4:shi/yon:四
+5:go:五
+6:roku:六
+7:nana/shich:七
+8:hachi:八
+9:kyuu:九
+10:jyuu:十
