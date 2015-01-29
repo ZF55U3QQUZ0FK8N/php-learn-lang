@@ -1,4 +1,4 @@
-#Numbers
+$Numbers
 0:rei/zero:零
 1:ichi:一
 2:ni:二
@@ -10,3 +10,22 @@
 8:hachi:八
 9:kyuu:九
 10:jyuu:十
+
+$Greetings
+I'm home:tadaima:ただいま
+Please Welcome:irasshaimase:いらっしゃいませ:watch?v=WrPCcap05y0
+(Good) Morning:ohayou(gozaimasu):おはよう (ございます)
+
+$Farewells
+See you:jaa ne:じゃあね
+$Questions
+
+$Answers
+Yes:Hai:はい
+No:iie:いいえ
+
+$Common_Phrases
+Please wait (a moment):(chotto) matte kudasai:
+Sorry:gomen'nasai:ごめんなさい
+Excuse me:sumimasen:すみません
+(Please) do your best:ganbatte:頑張って(ください)
