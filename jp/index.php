@@ -1,15 +1,17 @@
 <html>
+
 <!--  head  -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <title>Learning Japanese</title>
 <!-- base href="http://www.grey-company.org/Circle/language/phrase.htm" -->
+
 <style>
 table, th, td {
    /*
  border: 0.01px solid black;
    */
-border: 1px solid #000000;padding:3px; 
+/*border: 1px solid #000000;padding:3px; */
 
 }
 head {
@@ -27,30 +29,33 @@ a, a:hover {}
 </style>
 </head> 
 <body alink="brown" bgcolor="white" link="green" vlink="green">
+
 <!--  head end -->
 <!--  title stuffs -->
+
+
 <center>
 <font size="+2">Learning Japanese</font><br>
 <hr/>
 <font size="-1"><font color="green" size="1"><i>shhhh... its a thing</i></font></font><br>
-<img src="img/line.gif" alt="? Ivy Divider ?" border="0"><br><br>
-</center>
+<img src="img/line.gif" alt="? Ivy Divider ?" border="0"><br><br></center>
 <?php 
-include ('./tags.php');
-?>
-<table width="94%"><tbody>
-<?php 
+$titleTag="$";
+#include ('./tags.php');
+
 include ('./output.php');
 ?>
 <!--  data block -->
-    </tbody></table><br wp="br1">
 <!--  end ln block -->
 </br>
+</br>
+</br>
+
+
+
 <!--  FOOTER -->
-<br>
-<p></p>
-<center>
-<font size="-1">footer</font>
-</center>
-<p></p>
+<?php
+include ('./footer.php');
+?>
+
 </body></html>
